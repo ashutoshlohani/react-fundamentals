@@ -72,7 +72,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kentcdodds/react-fundamentals.git"
+    "url": "https://github.com/ashutoshlohani/react-fundamentals.git"
   },
   "bugs": {
     "url": "https://github.com/kentcdodds/react-fundamentals/issues"
